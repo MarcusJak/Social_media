@@ -16,3 +16,6 @@ This project is a visually impaired accessible website, inspired by Instagram, d
 - **Backend:** PHP for server-side logic.
 - **Database:** MySQL for storing user data, posts, and interactions.
 
+## Live Website
+(Design is not the main focus)  
+Experience the platform live at [Social Platform](https://studenter.miun.se/~maja2003/DT100G/projekt/)
