@@ -6,13 +6,13 @@ This project is a visually impaired accessible website, inspired by Instagram, d
 
 - **Visually Impaired Accessibility:** Enhanced accessibility features specifically designed for visually impaired users, including screen reader compatibility, keyboard navigation, and high-contrast visual elements, to ensure an inclusive digital environment.
 - **Image Posting:** Users can upload and share images with accessible descriptions for screen readers, enabling visually impaired users to engage with content meaningfully.
-- **Interactive Feed:** A dynamic feed allows students to interact with each other's posts through commenting and liking, fostering community engagement.
+- **Interactive Feed:** A dynamic feed allows students to interact with each other's posts through liking.
 - **MySQL Database Integration:** A MySQL database is integrated to manage user data, posts, interactions, and other dynamic content efficiently, ensuring a seamless and responsive user experience.
 - **User Authentication:** Implements a secure login and registration system to manage user accounts and protect user information.
 
 ## Technology Stack
 
-- **Frontend:** HTML, CSS, JavaScript (with a focus on accessibility features such as ARIA roles and semantic HTML).
+- **Frontend:** HTML, CSS, JavaScript.
 - **Backend:** PHP for server-side logic.
 - **Database:** MySQL for storing user data, posts, and interactions.
 
